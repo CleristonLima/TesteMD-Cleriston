@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AlterarDadosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AlterarDadosProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ExcluirDadosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ExcluirProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ListaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegistrarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RelatorioVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
